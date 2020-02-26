@@ -5,7 +5,7 @@ class MyClass
 end
 
 on=MyClass.new
-puts on.class
+puts on.class.class
 puts on.saysomething
 =begin
 Comments
